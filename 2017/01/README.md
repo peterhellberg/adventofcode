@@ -1,4 +1,4 @@
---- Day 1: Inverse Captcha ---
+# Day 1: Inverse Captcha
 
 The night before Christmas, one of Santa's Elves calls you in a panic. "The printer's broken! We can't print the Naughty or Nice List!" By the time you make it to sub-basement 17, there are only a few minutes until midnight. "We have a big problem," she says; "there must be almost fifty bugs in this system, but nothing else can print The List. Stand in this square, quick! There's no time to explain; if you can convince them to pay you in stars, you'll be able to--" She pulls a lever and the world goes blurry.
 
@@ -19,7 +19,7 @@ For example:
     1234 produces 0 because no digit matches the next.
     91212129 produces 9 because the only digit that matches the next one is the last digit, 9.
 
---- Part Two ---
+## Part Two
 
 You notice a progress bar that jumps to 50% completion. Apparently, the door isn't yet satisfied, but it did emit a star as encouragement. The instructions change:
 
